@@ -1,0 +1,72 @@
+{
+  "Class": {
+    "Control": {
+      "Applicative": {},
+      "Apply": {},
+      "Biapplicative": {},
+      "Biapply": {},
+      "Bind": {},
+      "Category": {},
+      "Monad": {
+        "State": {
+          "MonadState": {}
+        }
+      },
+      "Semigroupoid": {}
+    },
+    "Data": {
+      "Bifunctor": {},
+      "Either": {},
+      "Eq": {},
+      "Foldable": {},
+      "Function": {},
+      "Functor": {},
+      "FunctorWithIndex": {},
+      "Monoid": {
+        "Additive": {}
+      },
+      "Ord": {},
+      "Ring": {},
+      "Semigroup": {},
+      "Semiring": {},
+      "Show": {},
+      "Traversable": {},
+      "TraversableWithIndex": {}
+    },
+    "Effect": {}
+  },
+  "Type": {
+    "Control": {
+      "Monad": {
+        "State": {
+          "StateT": {}
+        }
+      }
+    },
+    "Data": {
+      "Array": {},
+      "Bool": {},
+      "Deque": {},
+      "Int": {},
+      "Json": {},
+      "List": {},
+      "Maybe": {},
+      "Number": {},
+      "Object": {},
+      "Ordering": {},
+      "String": {},
+      "Tree23": {},
+      "Tuple": {},
+      "Unit": {}
+    },
+    "Effect": {
+      "AsyncEffect": {},
+      "Error": {}
+    }
+  },
+  "Module": {
+    "Effect": {
+      "Random": {}
+    }
+  }
+}
